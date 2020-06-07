@@ -4,13 +4,14 @@ Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario mu
 
 Here’s how the program works if the user inputs 8 when prompted:
 Height: 8 <br>
-_______#__#<br>
-______##__##<br>
-_____###__###<br>
-____####__####<br>
-___#####__#####<br>
-__######__######<br>
-_#######__#######<br>
-########__########<br>
+....................#  #<br>
+.................##  ##<br>
+..............###  ###<br>
+...........####  ####<br>
+........#####  #####<br>
+.....######  ######<br>
+..#######  #######<br>
+########  ########<br>
+
 
 If the user doesn’t input a positive integer between 1 and 8, inclusive, when prompted, the program re-prompts the user until they cooperate.
